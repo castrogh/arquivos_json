@@ -1,1 +1,5 @@
-#### REGISTROS DE LOGS #####loglog2
+
+#### REGISTROS DE LOGS #####
+log1
+log2
+log3
